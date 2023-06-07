@@ -1,5 +1,5 @@
-# PromotionTool
-It is a project that handles all the promotion-related functions.
+# `Project Name`
+`project intro here...`
 
 ## Mission
 `something here...`
