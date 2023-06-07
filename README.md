@@ -1,8 +1,8 @@
 # `Project Name`
-`project intro here...`
+*`project intro here...`*
 
 ## Mission
-`something here...`
+*`something here...`*
 
 
 ## Need Help?
