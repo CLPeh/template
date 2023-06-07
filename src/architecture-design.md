@@ -13,8 +13,8 @@ The project follows a modular architecture pattern, separating functionality int
 | DA (Data Access) | Abstract the logic required to access the underlying data stores |
 | Hybrid BC |  |
 | Remote BC |  |
-| Grpc | For often used function like promotion transaction related function |
-| Management Grpc | For less used function such as create promotion |
+| Grpc |  |
+| Management Grpc |  |
 | Data Model |  |
 | Service Model |  |
 
