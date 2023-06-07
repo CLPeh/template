@@ -13,12 +13,13 @@ To set up the development environment for this project, follow the steps below:
 ## Installation
 1. Clone the repository to your local machine:
 ```sh
-https://github.com/CLPeh/promotion-tool-example.git
+*`git repo link`*
 ```
 
 2. Make sure you are in develop branch.
 
 3. Make sure Nuget pakage sources below had been added:
+*`remove unnecessary nuget pakages`*
 
 | Name | Source |
 | ------ | ------ |
