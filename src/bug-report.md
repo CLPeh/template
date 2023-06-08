@@ -6,29 +6,24 @@
 > Priority: High  
 
 ### Description  
-The webpage is not rendering correctly on mobile devices. The content appears misaligned, and some elements are overlapping, making the page difficult to read and navigate.
+The error message is not come out as expected.
 
 ### Steps to Reproduce  
-1. Open the website on a mobile device (e.g., iPhone X, Chrome browser).
-2. Navigate to the homepage.
-3. Scroll down to the product section.
-4. Notice that the product images are overlapping the product descriptions.  
+1. Replace the test data for GetPromotionTransaction: operatorId = "123!@#"
+2. Execute debug tests on GetPromotionTransaction function.
   
 ### Expected Behavior
-The webpage should be responsive and adapt properly to different screen sizes. The product images and descriptions should be properly aligned and not overlap each other. Tapping on a product image should trigger the associated action.
+Error message "Operator not found!" will be shown.
 
 ### Actual Behavior
-The webpage is not responsive and does not adapt correctly to mobile devices. The product images and descriptions are overlapping, causing readability issues. Tapping on a product image does not trigger any action.
+Error message "Common exception" was shown.
 
 ### Environment  
-Device: iPhone X  
-Browser: Chrome for iOS, version 92.0.4515.159  
-Operating System: iOS 14.7.1  
+Branch: develop  
   
 ### Additional Information  
 This issue is not present on desktop browsers.  
-The issue started occurring after the recent deployment of version 2.1.0.  
-The issue affects all mobile devices and browsers tested so far.  
+The issue started occurring after the recent deployment of version 2.1.0.    
   
 ### Screenshots  
 Attach relevant screenshots or images that demonstrate the issue.
