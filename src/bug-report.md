@@ -6,27 +6,30 @@
 > Priority: High  
 
 ### Description  
-The error message is not come out as expected.
+*`A description about the issue`*
 
 ### Steps to Reproduce  
-1. Replace the test data for GetPromotionTransaction: operatorId = "123!@#"
-2. Execute debug tests on GetPromotionTransaction function.
+1. *`step 1`*
+2. *`step 2`*
   
 ### Expected Behavior
-Error message "Operator not found!" will be shown.
+*`expected output`*
 
 ### Actual Behavior
-Error message "Common exception" was shown.
+*`actual output`*
 
 ### Environment  
 Branch: develop  
   
 ### Additional Information  
-This issue is not present on desktop browsers.  
-The issue started occurring after the recent deployment of version 2.1.0.    
+  
+  *`describe additional info about the issue`*
+> Example:  
+> This issue is not present on desktop browsers.  
+> The issue started occurring after the recent deployment of version 2.1.0.    
   
 ### Screenshots  
 *`Attach relevant screenshots or images that demonstrate the issue.`*
-<img src=".\bug-screenshot\Screenshot 2023-06-08 113230.png">
+> <img src=".\bug-screenshot\Screenshot 2023-06-08 113230.png">
   
 </details>
