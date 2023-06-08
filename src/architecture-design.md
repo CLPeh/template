@@ -21,7 +21,7 @@ The project follows a modular architecture pattern, separating functionality int
 ## Folder Structure
 `something here...`  
 *`replace the image with relevant project folder structure`*  
-<img src="folder-structure.png">
+> <img src="folder-structure.png">
 
 ## Design Patterns
 The project utilizes the following design patterns to promote code reusability and maintainability:
