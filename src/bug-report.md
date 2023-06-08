@@ -26,7 +26,7 @@ This issue is not present on desktop browsers.
 The issue started occurring after the recent deployment of version 2.1.0.    
   
 ### Screenshots  
-Attach relevant screenshots or images that demonstrate the issue.
-  <img src="/bug-screenshot/>
+*`Attach relevant screenshots or images that demonstrate the issue.`*
+<img src=".\bug-screenshot\Screenshot 2023-06-08 113230.png">
   
 </details>
