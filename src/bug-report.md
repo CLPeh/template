@@ -27,5 +27,6 @@ The issue started occurring after the recent deployment of version 2.1.0.
   
 ### Screenshots  
 Attach relevant screenshots or images that demonstrate the issue.
+  <img src="/bug-screenshot/>
   
 </details>
