@@ -1,25 +1,21 @@
 # Feature and Requirement
 
-<details><summary> Update Promotion Information </summary>
+<details><summary> *`Feature Name`* </summary>
   
 ### Feature Overview  
-The Promotion Update feature enables users to modify promotion information within the application. It provides a user-friendly interface for users to edit and save changes to the promotion data.
+*`some description of the feature required...`*
 
 ### Requirements  
-**Edit Promotion Information**: Users should be able to edit the following information in the promotion management:
+** *`feature name`* **: *`some description`*
 
-1. Promotion Status  
-2. Promotion Duration 
-3. Promotion Period  
-4. Is it limited?
-5. Is it global?
-6. Is it by pass payout?
+1. *`data 1`*
+2. *`data 2`*
 
-**Validation**: The system should validate user inputs to ensure data integrity and accuracy. It should check for required fields, proper input format, and valid patterns.
+**Validation**: *`validation to be carried out during the feature`*
 
 **Save Changes**: Upon editing the promotion, users should have the ability to save the changes made.
 
-**Error Handling**: The feature should handle error cases, such as invalid inputs or server-side errors. Appropriate error messages should be displayed to guide users in resolving any issues.
+**Error Handling**: *`error to be handled`*
 
 ### User Interface Mockup
 Include a visual representation or mockup of the user interface where users can update the promotion information. You can provide an image or a link to the mockup.
