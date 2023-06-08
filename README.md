@@ -40,6 +40,6 @@ Kindly refer to the guidelines and documentation related to this topic.
 
 </details>
 
-- [Testing and Quality Assurance](./src/testing-qa.md)
+- [Testing and Quality Assurance](./src/unit-testing.md)
 - [Release Notes](https://github.com/CLPeh/template/releases)
-- [Issues Tracking and Bugs Report](./src/issue-tracking-bug-report.md)
+- [Issues Tracking and Bugs Report](./src/bug-report.md)
